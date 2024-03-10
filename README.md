@@ -11,6 +11,7 @@
 * Added criterion benchmarking
   * $ cargo bench
   * View results under target/criterion/bench_1brc/report/index.html
+  * ![Sample from report](pdf_small.svg)
 
 ## ToDo
 
